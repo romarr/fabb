@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+
+{% include header.html %}
+
+<section class="page-content">
+    <div class="container main-container">
+        <div class="row">
+            <div class="col-md-8">
+                {{ content }}
+            </div>
+            <aside class="col-md-3 col-md-offset-1">
+                {% include aside.html %}
+            </aside>
+        </div>
+    </div>
+</section>
+{% include footer.html %}
+<!-- Piwik -->
+<script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="//stats.romsys.ovh/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', 2]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+</script>
+<noscript><p><img src="//stats.romsys.ovh/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+</body>
+
+</html>

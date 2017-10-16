@@ -1,0 +1,38 @@
+<footer id="site-footer">
+    <div class="container">
+        <div class="row text-muted text-center">
+
+            <div class="col-md-4">
+                <h3>Social</h3>
+                {% if site.youtube_username %}
+                <a class="btn btn-default" href="https://youtube.com/channel/{{ site.youtube_username }}"><i class="fa fa-youtube fa-lg"></i></a>                {% endif %} {% if site.twitter_username %}
+                <a class="btn btn-default" href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter fa-lg"></i></a>                {% endif %}
+                <a class="btn btn-default" href="{{ " /feed.xml " | prepend: site.baseurl }}"><i class="fa fa-rss fa-lg"></i></a>
+                <a class="btn btn-default" href="mailto:&#99;&#111;n%74&#97;&#99;&#116;&#64;%63&#101;s&#116;e&#110;f&#97;&#105;s&#97;%6e&#116;q%75%6fn%66a&#105;%74&#46;&#111;v&#104;"><i class="fa fa-envelope fa-lg"></i></a>
+            </div>
+            <div class="col-md-4">
+                <h3>A propos</h3>
+                <p>{{ site.description }}</p>
+            </div>
+            <div class="col-md-4">
+                <h3>Boutique</h3>
+                <div class="btn-group-vertical" role="group" aria-label="...">
+                    <a href="/boutique#!/Pi%C3%A8ces-auto-doccasion/c/21019555/" role="button" class="btn btn-default">Pièces d'occasion</a>
+                    <a href="/boutique#!/Rénovation-de-phares/c/21002382/" role="button" class="btn btn-default">Optiques</a>
+                    <a href="#" role="button" class="btn btn-default disabled">Goodies</a>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row text-muted text-center">
+            <pre class="bg-footer">C'est en faisant qu'on fait | Blog DIY mécanique auto | Powered by <a href="http://jekyllrb.com">Jekyll</a> | Site par <a href="mailto:co%6e&#116;%61&#99;t%40%61&#114;&#114;%61%69&#111;&#108;&#111;%73%2eo%76&#104;">A. Romain</a></pre>
+        </div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="{{ " /js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+    <script src="{{ " /js/custom.js " | prepend: site.baseurl }}"></script>
+
+</footer>

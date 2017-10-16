@@ -1,0 +1,62 @@
+- name: Kit de rénovation d'optiques
+  price: 21.90
+  sku: KIT-1001
+  image: http://placehold.it/1024x768
+  marque: Toutes
+  vehicule: Tous
+
+- name: Chiffon microfibre 30x40cm
+  price: 1.20
+  sku: KIT-2001
+  image: http://placehold.it/1024x768
+  marque: Toutes
+  vehicule: Tous
+
+- name: Pad de rénovation N° 1 et 2
+  price: 2.5
+  sku: KIT-2001
+  image: http://placehold.it/1024x768
+  marque: Toutes
+  vehicule: Tous
+
+- name: Pad de rénovation N° 3 et 4
+  price: 2.5
+  sku: KIT-2002
+  image: http://placehold.it/1024x768
+  marque: Toutes
+  vehicule: Tous
+  
+- name: Pad de rénovation N° 5 et 6
+  price: 2.5
+  sku: KIT-2003
+  image: http://placehold.it/1024x768
+  marque: Toutes
+  vehicule: Tous
+  
+- name: Pad de rénovation N° 7 et 8
+  price: 2.5
+  sku: KIT-2004
+  image: http://placehold.it/1024x768
+  marque: Toutes
+  vehicule: Tous
+  
+- name: Lubrifiant de ponçage
+  price: 2.5
+  sku: KIT-3001
+  image: http://placehold.it/1024x768
+  marque: Toutes
+  vehicule: Tous
+
+- name: Polish de finition
+  price: 3
+  sku: KIT-3002
+  image: http://placehold.it/1024x768
+  marque: Toutes
+  vehicule: Tous
+
+- name: Protecteur longue durée
+  price: 3.5
+  sku: KIT-3003
+  image: http://placehold.it/1024x768
+  marque: Toutes
+  vehicule: Tous

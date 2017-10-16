@@ -1,0 +1,90 @@
+---
+layout: default
+description: "Blog DIY, mécanique auto"
+title: Snipcart beta
+published: false
+---
+<div class="home">
+    <h1 class="page-heading">Boutique</h1>
+    <div class="row">
+        <div>
+
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs" role="tablist">
+                <li role="presentation" class="active"><a href="#pieces" aria-controls="pieces" role="tab" data-toggle="tab">Pièces d'occasion</a></li>
+                <li role="presentation"><a href="#optiques" aria-controls="optiques" role="tab" data-toggle="tab">Rénovation optiques</a></li>
+                <li role="presentation"><a href="#autres" aria-controls="autres" role="tab" data-toggle="tab">Autres</a></li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="pieces">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>Pièce</th>
+                                <th>Photo</th>
+                                <th>Ref.</th>
+                                <th>Marque</th>
+                                <th>Vehicule</th>
+                                <th>Prix</th>
+                                <th>Acheter</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for product in site.data.pieces %}
+                            <tr>
+                                <td>{{ product.name }}</td>
+                                <td>{% include modal_button.html %}</td>
+                                <td>{{ product.sku }}</td>
+                                <td>{{ product.marque }}</td>
+                                <td>{{ product.vehicule }}</td>
+                                <td>{{ product.price }} €</td>
+                                <td> <button class="btn btn-xs snipcart-add-item" data-item-name="{{ product.name }}" data-item-id="{{ product.sku }}"
+                                        data-item-url="{{ page.url }}" data-item-price="{{ product.price }}">
+    Ajouter au panier</button></td>
+                            </tr>
+
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="optiques">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>Pièce</th>
+                                <th>Photo</th>
+                                <th>Ref.</th>
+                                <th>Marque</th>
+                                <th>Vehicule</th>
+                                <th>Prix</th>
+                                <th>Acheter</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for product in site.data.optiques %}
+                            <tr>
+                                <td>{{ product.name }}</td>
+                                <td>{% include modal_button.html %}</td>
+                                <td>{{ product.sku }}</td>
+                                <td>{{ product.marque }}</td>
+                                <td>{{ product.vehicule }}</td>
+                                <td>{{ product.price }} €</td>
+                                <td> <button class="btn btn-xs snipcart-add-item" data-item-name="{{ product.name }}" data-item-id="{{ product.sku }}"
+                                        data-item-url="{{ page.url }}" data-item-price="{{ product.price }}">
+    Ajouter au panier</button></td>
+                            </tr>
+
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="autres">
+                    <p>Pas de produits ici</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

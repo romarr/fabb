@@ -1,0 +1,38 @@
+
+<div class="row">
+    <iframe class="embed-responsive-item" src="https://duckduckgo.com/search.html?site=cestenfaisantquonfait.ovh&prefill=Rechercher" style="overflow:hidden;margin:0;padding:0;height:40px;" frameborder="0"></iframe>
+    
+</div>
+
+<div class="row">
+    <hr class="style1">
+    <h2>Derniers articles</h2>
+    <ul class="nav nav-pills nav-stacked">
+        {% for post in site.posts limit:5 %}
+        {% if post.url %}
+        <li><a href="{{ post.url }}"><span class="label label-primary">{{ post.date | date: "%b %-d, %Y" }}</span> {{ post.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+
+    <hr class="style1">
+    <h2>Catégories</h2>
+    <ul class="nav nav-pills nav-stacked">
+        {% for category in site.categories %}
+        <li><a href="/categories.html#{{ category | first }}"><span class="label label-primary"><i class="fa fa-pencil"></i> {{ category | last | size }}</span> {{ category | first | capitalize }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <hr class="style1">
+    <h5>Annonces</h5>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- fabb-aside-01 -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-1227374223145125"
+         data-ad-slot="9880667875"
+         data-ad-format="auto"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>

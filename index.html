@@ -1,0 +1,102 @@
+---
+layout: default
+description: "Blog DIY, mécanique auto"
+---
+<div class="home container-fluid">
+
+    <h1 class="page-heading">Tous les guides</h1>
+    {% for post in site.posts %}
+    {% if post.featured == true %}
+    {% if paginator.page == 1 %}
+        <div class="row">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <h2>
+                        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </h2>
+                    <div class="col-md-12">
+                        <div class="post-labels">
+                                <span class="label label-primary">{{ post.date | date: "%b %-d, %Y" }}</span>
+                                <span><i class="fa fa-user"></i> {{ site.author }}</span>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ post.video }}"></iframe>
+                        </div>
+                        <span><a href="{{ post.url }}" class="btn btn-default btn-sm pull-right">Lire <i class="fa fa-arrow-circle-o-right fa-lg"></i></a> 
+                        <a href="/boutique" class="btn btn-info btn-sm pull-right">Boutique <i class="fa fa-shopping-cart fa-lg"></i></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    {% endif %}
+    {% endfor %} 
+{% for post in paginator.posts %}
+<div class="row">
+        <h3>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+    
+        <article class="row">
+            <div class="col-md-5">
+                <a href="{{ post.url }}"><img class="img-responsive img-thumbnail" src="https://i.ytimg.com/vi/{{ post.video }}/mqdefault.jpg"></a>
+            </div>
+            <div class="col-md-7">
+                <div class="post-labels">
+                    <span class="label label-primary">{{ post.date | date: "%b %-d, %Y" }}</span>
+                    <span><i class="fa fa-user"></i> {{ site.author }}</span>
+                    {% if post.categories %}<span><i class="fa fa-tag"></i> {% for cat in post.categories %} <a href="/categories.html#{{cat}}">{{ cat }}</a> {% endfor %}</span>{%endif%}
+                </div>
+                <p>{{ post.content | strip_html | truncatewords: 60 }}</p>
+                <a href="{{ post.url }}" class="btn btn-info btn-sm pull-right">Lire <i class="fa fa-arrow-circle-o-right fa-lg"></i></a>
+            </div>
+        </article>
+    </div>  
+<hr class="style2">
+{% if done != true %}
+{% assign result = forloop.index | modulo:5 %} {% if result == 0 %}
+{% assign done = true %}
+<h5>Annonce</h5>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-eh+63+2w-dr+ed"
+     data-ad-client="ca-pub-1227374223145125"
+     data-ad-slot="6222115156"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<hr class="style2">
+{% endif %}
+{% endif %}
+{% endfor %}
+
+<!-- Pagination links -->
+<nav aria-label="paginator">
+    <ul class="pager">
+        {% if paginator.previous_page %}
+        <li><a href="{{ paginator.previous_page_path }}">Précédent</a></li>
+        {% else %}
+        <li class="disabled"><a href="{{ paginator.previous_page_path }}">Précédent</a></li>
+        {% endif %} {% if paginator.next_page %}
+        <li><a href="{{ paginator.next_page_path }}">Suivant</a></li>
+        {% else %}
+        <li class="disabled"><a href="{{ paginator.next_page_path }}">Suivant</a></li>
+        {% endif %}
+
+    </ul>
+</nav>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cefqf -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1227374223145125"
+     data-ad-slot="2523808422"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>

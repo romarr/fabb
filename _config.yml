@@ -1,0 +1,81 @@
+---
+# Config générale du site
+title: C'est en faisant qu'on fait
+subtitle: Fab B.
+description: >
+  Les vidéos que vous trouverez ici sont faites dans le but de vous montrer que beaucoup de choses sont accessible à tous à condition d'oser se "salir" les mains. En suivant mes vidéos vous apprendrez des bases en mécanique ce qui vous permettra de faire des économies sur l'entretien de vos véhicules.
+about: >
+  Ça peut paraitre idiot dit comme ça mais on ne peut contredire la phrase "c'est en faisant qu'on fait". Le dicton "c'est en forgeant qu'on devient forgeron" n'est pas vraiment plus élaboré. Quand on s'intéresse à quelque chose et que l'on ose y "mettre les mains", on s'aperçoit souvent que ce n'est pas sorcier. C'est le but de cette chaine, de vous montrer que beaucoup de choses sont faisable sans compétences particulières à condition de s'y intéresser.
+
+# Réglages et adresses
+encoding: "utf-8"
+timezone: Europe/Paris
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://cestenfaisantquonfait.ovh" # the base hostname & protocol for your site
+permalink: /:year/:month-:day/:categories/:title.html
+paginate: 10
+
+# Coordonnées
+author: Fab B.
+twitter_username: fabb_20
+youtube_username: UCkqQ7ktU06DL8xqiqHdI2rw
+
+# Gems et extensions
+gems:
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-paginate
+exclude:
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- Dockerfile.dev
+- nginx.conf
+
+sass:
+  sass_dir: css
+  style: compressed
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://beta.franceinsoumise06.fr/'
+  media: 'img/uploads'
+  ignore:
+    - /_config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titre"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "select"
+          label: "Catégorie"
+          options: 'http://cestenfaisantquonfait.ovh/categories.jsonp'
+      - name: "modele"
+        field:
+          element: "multiselect"
+          label: "Modèle"
+          alterable: true
+      - name: "video"
+        field:
+          element: "text"
+          label: "Video"
+      - name: "date"
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          alterable: true
+
+

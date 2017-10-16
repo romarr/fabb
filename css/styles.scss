@@ -1,0 +1,57 @@
+---
+---
+/*!
+ * Thème Bootswatch (United) personalisé aux couleurs de la France Insoumise
+ */
+@import 'bootstrap';
+@import 'fontawesome';
+@import 'tags';
+
+.top-header{
+    background: url(/img/new_bg.jpg) no-repeat center center;
+    height: 200px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.site-header {
+    height: 51px;
+}
+hr.style1 {
+    width: 70%;
+    color: #333333;
+    background-color: #333333;
+    height: 2px;
+}
+
+hr.style2 {
+    width: 70%;
+    color: #279dec;
+    background-color: #279ceb;
+    height: 1px;
+}
+#site-footer {
+    background-color: #222222;
+}
+.bg-footer {
+    color: #777;
+    background-color: #222222;
+}
+.main-container {
+    background-color: white;
+    max-width: 1140px;
+}
+.page-content {
+    background-image: url('/img/hexellence.png');
+    background-attachment: fixed;
+}
+
+aside {
+    padding-top: 75px;
+    padding-right: 5px;
+}
+
+.post-labels {
+    padding-bottom: 10px;
+}

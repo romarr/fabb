@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<header class="post-header">
+    <h3>{{ page.title }}</h3>
+</header>
+<div class="row">
+    <div class="col-md-5">
+        <img class="img-responsive img-thumbnail" src="https://i.ytimg.com/vi/{{ page.video }}/mqdefault.jpg">
+    </div>
+
+    <div class="col-md-7">
+        <span class="label label-primary">{{ page.date | date: "%b %-d, %Y" }}</span>
+        <span><i class="fa fa-user"></i> {{ site.author }}</span>
+        {% if page.categories %}<span><i class="fa fa-tag"></i> {% for cat in page.categories %} <a href="/categories.html#{{cat}}">{{ cat }}</a> {% endfor %}</span>{%endif%}
+        <h6><i class="fa fa-tag"></i> {% for tags in page.tags %} {{ tags }} {% endfor %}</h6>
+    </div>
+    <div class="col-md-12">
+    <hr>
+        <article>
+            {{ content }}
+        </article>
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ page.video }}"></iframe>
+        </div>
+        <div class="share-footer pull-right">
+            Partager sur
+            <a class="btn btn-primary btn-sm" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}"
+                rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+            <a class="btn btn-primary btn-sm" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank"
+                title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+        </div>
+        <hr>
+        <h5>Annonce</h5>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <ins class="adsbygoogle"
+             style="display:block; text-align:center;"
+             data-ad-layout="in-article"
+             data-ad-format="fluid"
+             data-ad-client="ca-pub-1227374223145125"
+             data-ad-slot="1451513512"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>

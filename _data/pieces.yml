@@ -1,0 +1,27 @@
+- name: Cache enceinte / repose pied BMW E36
+  price: 20
+  sku: PART-1001
+  image: http://placehold.it/1024x768
+  marque: BMW
+  vehicule: E36
+
+- name: Garnitures plastique derrière volant BMW E36
+  price: 20
+  sku: PART-1002
+  image: http://placehold.it/1024x768
+  marque: BMW
+  vehicule: E36
+
+- name: Soufflet de frein à main pour BMW E36
+  price: 15
+  sku: PART-1003
+  image: http://placehold.it/1024x768
+  marque: BMW
+  vehicule: E36
+
+- name: Commodo d'essuies-glace BMW E36
+  price: 20
+  sku: PART-1004
+  image: http://placehold.it/1024x768
+  marque: BMW
+  vehicule: E36

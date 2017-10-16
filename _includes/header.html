@@ -1,0 +1,46 @@
+<section class="top-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-1 pull-right">
+                <h4><span class="label label-info">Boutique disponible !</span></h4>
+            </div>
+        </div>
+    </div>
+</section>
+<header class="site-header">
+    <nav class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.subtitle }}</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    {% for page in site.pages %}
+                    {% if page.title %}
+                    <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                    {% if site.youtube_username %}
+                    <li><a href="https://youtube.com/channel/{{ site.youtube_username }}"><i class="fa fa-youtube fa-lg"></i></a></li>
+                    {% endif %}
+                    {% if site.twitter_username %}
+                    <li><a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter fa-lg"></i></a></li>
+                    {% endif %}
+                    <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="fa fa-rss fa-lg"></i></a></li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container -->
+    </nav>
+</header>
