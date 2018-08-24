@@ -6,5 +6,4 @@ tags: bêtisier, chaine, youtube, fab-b
 categories: 
 modele: 
 video: Ff6zmZbQoM4
-featured: true
 ---
