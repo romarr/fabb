@@ -5,6 +5,7 @@ description:
 tags: test, avis, coffre de toit, green valley, yosemite
 categories: Vehicules
 modele: Tous modèles
+date: 2018-08-23T10:24:27.648Z
 video: uU_9vlv7tT0
 ---
 
