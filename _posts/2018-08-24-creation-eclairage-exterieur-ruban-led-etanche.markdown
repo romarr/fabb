@@ -22,11 +22,11 @@ sans avoir peur de l'abîmer, il ne sera pas recouvert par les feuilles mortes o
 Voici les produits que j'ai utilisé et cité
 
 Le ruban led vendu au mètre : 
-- Blanc chaud : https://www.manomano.fr/ruban-led/ruban-led-blanc-chaud-220v-au-metre-pour-eclairage-interieur-exterieur-4489804?model_id=4489804#alg-d2c509aa307e95f307ae247b5ab1d573?referer_id=685338
-- Blanc neutre : https://www.manomano.fr/catalogue/ruban-led/ruban-led-blanc-neutre-220v-au-metre-pour-eclairage-interieur-exterieur-7687304?model_id=7687304#alg-d7dbe66baaf882c95b5f5a2e0a88b5ce?referer_id=685338
+- Blanc chaud : [Ruban led blanc chaud](https://www.manomano.fr/ruban-led/ruban-led-blanc-chaud-220v-au-metre-pour-eclairage-interieur-exterieur-4489804?model_id=4489804#alg-d2c509aa307e95f307ae247b5ab1d573?referer_id=685338)
+- Blanc neutre : [Ruban led blanc neutre](https://www.manomano.fr/catalogue/ruban-led/ruban-led-blanc-neutre-220v-au-metre-pour-eclairage-interieur-exterieur-7687304?model_id=7687304#alg-d7dbe66baaf882c95b5f5a2e0a88b5ce?referer_id=685338)
 
 Les produits EcoDring sans pile et sans fil 
 10% de remise avec le code ---- fab10pc ----
-- la sonnette : https://www.ecodring.com/boutique/sonnette-rdv/
-- la prise commandée : https://www.ecodring.com/boutique/prise-commandee-par-interrupteur-sans-fil-sans-pile-garantie-2-ans-portee-interieure-30-metres-blanche-rxtx/
-- l'interrupteur (va-et-vient) : https://www.ecodring.com/boutique/interrupteur-sans-fil-sans-pile-et-son-recepteur-1000w-garantie-2-ans-portee-interieure-30-metres-blanc-rxtx/
+- la sonnette : <https://www.ecodring.com/boutique/sonnette-rdv/>
+- la prise commandée : <https://www.ecodring.com/boutique/prise-commandee-par-interrupteur-sans-fil-sans-pile-garantie-2-ans-portee-interieure-30-metres-blanche-rxtx/>
+- l'interrupteur (va-et-vient) : <https://www.ecodring.com/boutique/interrupteur-sans-fil-sans-pile-et-son-recepteur-1000w-garantie-2-ans-portee-interieure-30-metres-blanc-rxtx/>
