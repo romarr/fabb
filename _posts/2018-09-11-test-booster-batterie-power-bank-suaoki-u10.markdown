@@ -15,6 +15,8 @@ J'ai testé toutes les fonctions, notamment le mode boost qui permet justement d
 
 Ce [SUAOKI U10](https://amzn.to/2O8XDZH) sera également un excellent compagnon de voyage pour garder tous vos appareil en charge via les 2 ports USB où le port micro USB. Lorsque vous roulez il suffira de le brancher sur la prise allume cigare pour le recharger. L'adaptateur secteur permettra de le recharger sur n'importe quel prise secteur, comptez 6,5 heures pour une charge complète.
 
+Le booster et tous ses accessoires sont bien calés dans un étui costaud, pratique à trimballer partout sans prise de tête.
+
 Il s'agit du modèle U10 de la marque SUAOKI  
 ▪ Pour batterie 12V  
 ▪ Capacité de la batterie: 20000mAh    
