@@ -20,6 +20,12 @@ Leur engagement avec [Reforest'Action](https://www.ecodring.com/1-vente-ecodring
  
 EcoDring propose également une prise commandée sans pile et sans fil ! 
 
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://www.youtube.com/watch?v=joxfHlzemGo&t">
+    </iframe>
+</div>
+
 [![EcoDring INTERPRISE](https://i.ytimg.com/an_webp/joxfHlzemGo/mqdefault_6s.webp?du=3000&sqp=CPaWwd4F&rs=AOn4CLCuRcxlRcefaV2AIlK3zriFsvXrUw)](http://www.youtube.com/watch?v=joxfHlzemGo&t "Prise commandée sans pile et sans fil EcoDring : Présentation et démonstration")
 
 La prise commandée [INTERPRISE](https://www.ecodring.com/boutique/prise-commandee-par-interrupteur-sans-fil-sans-pile-garantie-2-ans-portee-interieure-30-metres-blanche-rxtx/) permet de gérer l'alimentation de n'importe quel appareil grâce un interrupteur sans fil et sans pile !  
