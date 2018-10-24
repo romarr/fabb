@@ -6,7 +6,7 @@ tags: ecodring, sonnette, sans fil, sans pile, interrupteur, va et vient, prise,
 img: generic-video.jpg
 categories: Tests
 modele: 
-video: JdnGCXiHaZ8&t
+video: JdnGCXiHaZ8
 ---
 Voilà un produit qui va m'être très utile, et je ne savais même pas que ça existait !
 Il s'agit d'une sonnette sans fil et sans pile ! C'est d'une simplicité incroyable et je suis conquis. 
