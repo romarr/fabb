@@ -6,7 +6,7 @@ tags: ecodring, sonnette, sans fil, sans pile, interrupteur, va et vient, prise,
 img: generic-video.jpg
 categories: Tests
 modele: 
-video: JdnGCXiHaZ8
+video: JdnGCXiHaZ8&t
 ---
 Voilà un produit qui va m'être très utile, et je ne savais même pas que ça existait !
 Il s'agit d'une sonnette sans fil et sans pile ! C'est d'une simplicité incroyable et je suis conquis. 
@@ -14,6 +14,10 @@ Il s'agit d'une sonnette sans fil et sans pile ! C'est d'une simplicité incroya
 Dans la vidéo je vous montre en détail cette sonnette ainsi que comment l'installer et la paramétrer.
 
 Si vous souhaitez découvrir leur produits, [EcoDring](https://www.ecodring.com/) vous offre 10% de remise sur votre première commande avec le code __FAB10PC__.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=joxfHlzemGo&t
+" target="_blank"><img src="http://img.youtube.com/vi/joxfHlzemGo&t/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Vous pouvez voir les options et les caractéristiques de la sonnette ["RENDEZ-VOUS"](https://www.ecodring.com/boutique/sonnette-rdv/) sur leur site.  
 Leur engagement avec [Reforest'Action](https://www.ecodring.com/1-vente-ecodring-1-arbre/) me plait beaucoup, j'adore savoir que mon acte en tant que consommateur peut avoir un effet bénéfique sur la planète (en général c'est le contraire).
