@@ -18,9 +18,9 @@ Si vous souhaitez découvrir leur produits, [EcoDring](https://www.ecodring.com/
 Vous pouvez voir les options et les caractéristiques de la sonnette ["RENDEZ-VOUS"](https://www.ecodring.com/boutique/sonnette-rdv/) sur leur site.  
 Leur engagement avec [Reforest'Action](https://www.ecodring.com/1-vente-ecodring-1-arbre/) me plait beaucoup, j'adore savoir que mon acte en tant que consommateur peut avoir un effet bénéfique sur la planète (en général c'est le contraire).
  
-EcoDring propose également une prise commandée sans pile et sans fil !  
+EcoDring propose également une prise commandée sans pile et sans fil ! 
 
-[![EcoDring INTERPRISE](https://i.ytimg.com/an_webp/joxfHlzemGo/mqdefault_6s.webp?du=3000&sqp=CPaWwd4Frs=AOn4CLCuRcxlRcefaV2AIlK3zriFsvXrUw)](http://www.youtube.com/watch?v=joxfHlzemGo&t "Prise commandée sans pile et sans fil EcoDring : Présentation et démonstration")
+[![EcoDring INTERPRISE](https://i.ytimg.com/an_webp/joxfHlzemGo/mqdefault_6s.webp?du=3000&sqp=CPaWwd4F&rs=AOn4CLCuRcxlRcefaV2AIlK3zriFsvXrUw)](http://www.youtube.com/watch?v=joxfHlzemGo&t "Prise commandée sans pile et sans fil EcoDring : Présentation et démonstration")
 
 La prise commandée [INTERPRISE](https://www.ecodring.com/boutique/prise-commandee-par-interrupteur-sans-fil-sans-pile-garantie-2-ans-portee-interieure-30-metres-blanche-rxtx/) permet de gérer l'alimentation de n'importe quel appareil grâce un interrupteur sans fil et sans pile !  
 J'illustre plusieurs exemples d'utilisations dans la vidéo, notamment pour gérer l'alimentation de mon [Ruban LED blanc chaud](https://www.manomano.fr/ruban-led/ruban-led-blanc-chaud-220v-au-metre-pour-eclairage-interieur-exterieur-4489804?model_id=4489804#alg-d2c509aa307e95f307ae247b5ab1d573?referer_id=685338) (il existe aussi en [blanc neutre](https://www.manomano.fr/catalogue/ruban-led/ruban-led-blanc-neutre-220v-au-metre-pour-eclairage-interieur-exterieur-7687304?model_id=7687304#alg-d7dbe66baaf882c95b5f5a2e0a88b5ce?referer_id=685338)) mais je suis sûr que vous en trouverez d'autres.
