@@ -16,7 +16,7 @@ Dans la vidéo je vous montre en détail cette sonnette ainsi que comment l'inst
 Si vous souhaitez découvrir leur produits, [EcoDring](https://www.ecodring.com/) vous offre 10% de remise sur votre première commande avec le code __FAB10PC__.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=joxfHlzemGo&t
-" target="_blank"><img src="http://img.youtube.com/vi/joxfHlzemGo&t/0.jpg" 
+" target="_blank"><img src="https://i.ytimg.com/an_webp/joxfHlzemGo/mqdefault_6s.webp?du=3000&sqp=CPaWwd4F&rs=AOn4CLCuRcxlRcefaV2AIlK3zriFsvXrUw.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Vous pouvez voir les options et les caractéristiques de la sonnette ["RENDEZ-VOUS"](https://www.ecodring.com/boutique/sonnette-rdv/) sur leur site.  
