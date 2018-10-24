@@ -16,8 +16,8 @@ Dans la vidéo je vous montre en détail cette sonnette ainsi que comment l'inst
 Si vous souhaitez découvrir leur produits, [EcoDring](https://www.ecodring.com/) vous offre 10% de remise sur votre première commande avec le code __FAB10PC__.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=joxfHlzemGo&t
-" target="_blank"><img src="https://i.ytimg.com/an_webp/joxfHlzemGo/mqdefault_6s.webp?du=3000&sqp=CPaWwd4F&rs=AOn4CLCuRcxlRcefaV2AIlK3zriFsvXrUw.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="https://i.ytimg.com/vi/joxfHlzemGo/sddefault.jpg" 
+alt="EcoDring INTERPRISE" width="240" height="180" border="10" /></a>
 
 Vous pouvez voir les options et les caractéristiques de la sonnette ["RENDEZ-VOUS"](https://www.ecodring.com/boutique/sonnette-rdv/) sur leur site.  
 Leur engagement avec [Reforest'Action](https://www.ecodring.com/1-vente-ecodring-1-arbre/) me plait beaucoup, j'adore savoir que mon acte en tant que consommateur peut avoir un effet bénéfique sur la planète (en général c'est le contraire).
