@@ -3,9 +3,10 @@ layout: post
 title: " Les produits sans fil et sans pile EcoDring "
 description: Je vous présente et teste les produits de la marque EcoDring
 tags: ecodring, sonnette, sans fil, sans pile, interrupteur, va et vient, prise, commandée, pilotée
-img: i.ytimg.com/vi/rmNpAlT_1Qg/sddefault.jpg
+img: generic-video.jpg
 categories: Tests
 modele: 
+video: rmNpAlT_1Qg
 
 ---
 Voilà un produit qui va m'être très utile, et je ne savais même pas que ça existait !
