@@ -3,10 +3,10 @@ layout: post
 title: " Les produits sans fil et sans pile EcoDring "
 description: Je vous présente et teste les produits de la marque EcoDring
 tags: ecodring, sonnette, sans fil, sans pile, interrupteur, va et vient, prise, commandée, pilotée
-img: generic-video.jpg
+img: https://i.ytimg.com/vi/rmNpAlT_1Qg/sddefault.jpg
 categories: Tests
 modele: 
-video: rmNpAlT_1Qg
+video:
 ---
 Voilà un produit qui va m'être très utile, et je ne savais même pas que ça existait !
 Il s'agit d'une sonnette sans fil et sans pile !  
@@ -14,7 +14,8 @@ C'est d'une simplicité incroyable et je suis conquis.
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rmNpAlT_1Qg" allowfullscreen></iframe>
-</div>
+</div>  
+
 
 Dans la vidéo je vous montre en détail cette sonnette ainsi que comment l'installer et la paramétrer.
 
@@ -27,7 +28,8 @@ EcoDring propose également une prise commandée sans pile et sans fil !
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/joxfHlzemGo" allowfullscreen></iframe>
-</div>
+</div>  
+
 
 La prise commandée [INTERPRISE](https://www.ecodring.com/boutique/prise-commandee-par-interrupteur-sans-fil-sans-pile-garantie-2-ans-portee-interieure-30-metres-blanche-rxtx/) permet de gérer l'alimentation de n'importe quel appareil grâce un interrupteur sans fil et sans pile !  
 J'illustre plusieurs exemples d'utilisations dans la vidéo, notamment pour gérer l'alimentation de mon [Ruban LED blanc chaud](https://www.manomano.fr/ruban-led/ruban-led-blanc-chaud-220v-au-metre-pour-eclairage-interieur-exterieur-4489804?model_id=4489804#alg-d2c509aa307e95f307ae247b5ab1d573?referer_id=685338) (il existe aussi en [blanc neutre](https://www.manomano.fr/catalogue/ruban-led/ruban-led-blanc-neutre-220v-au-metre-pour-eclairage-interieur-exterieur-7687304?model_id=7687304#alg-d7dbe66baaf882c95b5f5a2e0a88b5ce?referer_id=685338)) mais je suis sûr que vous en trouverez d'autres.
@@ -37,7 +39,8 @@ Ma troisième vidéo sur les produits d'EcoDring porte sur leur sysème d'interr
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JdnGCXiHaZ8" allowfullscreen></iframe>
-</div>
+</div>  
+
 
 Si vous êtes alergique aux va-et-vient les interrupteurs [INTERELEC](https://www.ecodring.com/boutique/interrupteur-sans-fil-sans-pile-et-son-recepteur-1000w-garantie-2-ans-portee-interieure-30-metres-blanc-rxtx/) vous changeront la vie.  
 L'installation du récepteur de l'interprise est encore plus simple que l'installation d'une prise et ça s'arrête la. Il ne vous restera plus qu'à visser ou coller les interrupteurs à l'endroit désiré et vous aurez réalisé votre va-et-vient sans gaine, sans saigniées, sans fils supplémentaires et sans prise de tête !
