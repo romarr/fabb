@@ -17,7 +17,7 @@ C'est d'une simplicité incroyable et je suis conquis.
 alt="EcoDring INTERPRISE" width="480" height="385" border="10" /></a>  
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rmNpAlT_1Qg&t" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=rmNpAlT_1Qg" allowfullscreen></iframe>
 </div>
 
 Dans la vidéo je vous montre en détail cette sonnette ainsi que comment l'installer et la paramétrer.
